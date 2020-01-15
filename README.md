@@ -1,0 +1,2 @@
+# JJK
+a practice repo
